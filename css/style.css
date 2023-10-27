@@ -1,0 +1,10 @@
+h1{
+    text-align: center;color: darkgreen;
+}
+
+body {
+    background-color: beige;
+  }
+li{
+    list-style-position: inside;
+}
