@@ -1,10 +1,20 @@
-h1{
-    text-align: center;color: darkgreen;
+h1 {
+  text-align: center;
+  color: darkgreen;
 }
 
 body {
-    background-color: beige;
-  }
-li{
+  background-color: beige;
+}
+
+.tarif-adi {
+    color: black;
+}
+
+.nokta-orta {
     list-style-position: inside;
+}
+
+.liste-orta {
+    text-align: center;
 }
